@@ -1,0 +1,21 @@
+{
+    "name": "createjs",
+    "description": "A suite of Javascript libraries & tools for building rich, interactive experiences with HTML5.",
+    "keywords": [
+        "html5",
+        "canvas",
+        "CREATEJS",
+        "EASELJS",
+        "TWEENJS",
+        "SOUNDJS",
+        "PRELOADJS"
+
+    ],
+    "dependencies": {},
+    "version": "2013.02.12",
+    "scripts": [
+        "index.js"
+    ],
+    "license": "MIT",
+    "repo": "https://github.com/weiyongqing123/component-createjs"
+}
