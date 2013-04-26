@@ -1,6 +1,6 @@
 {
     "name": "createjs",
-    "description": "A suite of Javascript libraries & tools for building rich, interactive experiences with HTML5.",
+    "description": "A suite of Javascript libraries & tools for building rich, interactive experiences with HTML5.include EASELJS TWEENJS SOUNDJS PRELOADJS",
     "keywords": [
         "html5",
         "canvas",
