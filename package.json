@@ -1,0 +1,16 @@
+{
+  "name": "weiyongqing123-createjs",
+  "description": "for building rich, interactive experiences with HTML5.include EASELJS TWEENJS SOUNDJS PRELOADJS",
+  "version": "2013.02.12",
+  "keywords": [
+    "html5",
+    "canvas",
+    "CREATEJS",
+    "EASELJS",
+    "TWEENJS",
+    "SOUNDJS",
+    "PRELOADJS"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
